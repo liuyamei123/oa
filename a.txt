@@ -5,3 +5,4 @@ dddddddddddddddd
 eeeeeeeeeeeeeeee
 ffffffffffffffff
 select * from book
+update book from master
