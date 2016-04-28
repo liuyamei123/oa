@@ -6,3 +6,5 @@ eeeeeeeeeeeeeeee
 ffffffffffffffff
 select * from book
 update book from master
+delete from book where id=1
+dev1111111111111111111111111
