@@ -5,3 +5,5 @@ dddddddddddddddd
 eeeeeeeeeeeeeeee
 ffffffffffffffff
 select * from book
+delete from book where id=1
+dev1111111111111111111111111
